@@ -1,4 +1,4 @@
-# CRAE + Heroku
+# CRAE + Heroku (*Guide #1*)
   * **Create-React-App + Express + Deployment to Heroku.**
   * [Live Site Example](https://crae-heroku.herokuapp.com/)
   * This guide was built in April 2019 by [Blaine Anderson](https://github.com/BlaineAndersonDev).
@@ -9,8 +9,8 @@
 
   | Technology | Description | CRAE + Heroku | CRAE + Nav + Foot | CRAE + Axios | CRAE + Db | CRAE + Dotenv | CRAE + Cloudinary | CRAE + Auth0 |
   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-  | --- | --- | [Github](https://github.com/BlaineAndersonDev/crae-heroku#crae--heroku) | Github | Github | Github | Github | Github | Github |
-  | --- | --- | [Live Example](https://crae-heroku.herokuapp.com/) | Live Example | Live Example | Live Example | Live Example | Live Example | Live Example |
+  | --- | --- | [Github](https://github.com/BlaineAndersonDev/crae-heroku#crae--heroku) | [Github](https://github.com/BlaineAndersonDev/crae-nav-foot) | Github | Github | Github | Github | Github |
+  | --- | --- | [Live Example](https://crae-heroku.herokuapp.com/) | [Live Example](https://crae-nav-foot.herokuapp.com/) | Live Example | Live Example | Live Example | Live Example | Live Example |
   | [Homebrew](https://brew.sh/) | "The missing package manager for macOS (or Linux)" | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
   | [Atom](https://atom.io/) | Coding Text Editor | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
   | [Node](https://nodejs.org/en/) | JS Command Line Interface | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -37,8 +37,6 @@
   * **Step 4:** Client (Create-React-App) Updates.
   * **Step 5:** Deployment to Heroku.
   * **Step 6:** Celebration.
-
-  > *This tutorial focuses on building a basic CRAE App & deploying it to Heroku. If you are looking for my related tutorials [CRAE + DB](), [CRAE + Dotenv]() or another tutorial please check [here]().*
 
 ## **Step 1:** Basic Installations & Directory Setup
 ### Basic Installations:
@@ -593,17 +591,6 @@
 
 
 ## :floppy_disk: ---===> Continue Learning? <===--- :floppy_disk:
-  * If your interested in continuing to make this App even better, why not check out the next Guide in the series?
-    * *The next guide focuses on creating a simplistic, useful & persistant Navigtion Bar, as well as a Footer that actually stays where it should!*
+  * If you're interested in continuing to make this App even better, why not check out the next Guide in the series?
+    * *The next guide focuses on creating a simplistic, useful & persistent Navigation Bar, as well as a Footer that actually stays where it should!*
     * [CRAE+Nav+Foot]( )
-
-  <!--
-  | Guide | Description |
-  | --- | --- |
-  | [CRAE+Heroku](https://github.com/BlaineAndersonDev/crae-heroku#crae--heroku) | A detailed guide to building a basic [Create-React-App](https://github.com/facebook/create-react-app) + [Express](https://expressjs.com/) App and deploy it to [Heroku](https://www.heroku.com/). The First Guide In The Series. |
-  | CRAE+Nav+Foot | This guide focuses on creating a persistent Top level Navigation bar & a footer that stays grounded. ([Example](________)) |
-  | CRAE+Axios | A guide aimed to implement the [Axios](https://github.com/axios/axios) routing library for simple but powerful HTTP requests. |
-  | CRAE+DB | A continuation guide to incorporate a fully fleshed [PostgreSQL](https://www.postgresql.org/) Database & [Knex](https://knexjs.org/) SQL Query Builder into your App. |
-  | CRAE+Dotenv | A guide to implementing [Dotenv](https://github.com/motdotla/dotenv#readme) into your App. |
-  | CRAE+Cloudinary | This guide allows you to store images in a third party app called [Cloudinary](https://cloudinary.com/). |
-  | CRAE+Auth0 | A guide to help implement secure sessions, logins and user information retrieval using [Auth0](https://auth0.com/). | -->
