@@ -1,6 +1,6 @@
 # CRAE + Heroku (*Guide #1*)
   * **Create-React-App + Express + Deployment to Heroku.**
-  * [Live Site Example](https://crae-heroku.herokuapp.com/)
+  * [Live Site Example](https://crae-001-heroku.herokuapp.com/)
   * This guide was built in April 2019 by [Blaine Anderson](https://github.com/BlaineAndersonDev).
   * This App serves as a starting point with instruction for aspiring developers using the CRAE stack (create-react-app-express) & is prepared upon completion to be deployed to Heroku.
   <!-- * Blaine Anderson's [Portfolio](http://www.blaineandersondev.com/) -->
@@ -10,7 +10,7 @@
   | Technology | Description | CRAE + Heroku | CRAE + Nav + Foot | CRAE + Axios | CRAE + Db | CRAE + Dotenv | CRAE + Cloudinary | CRAE + Auth0 |
   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
   | --- | --- | [Github](https://github.com/BlaineAndersonDev/crae-001-heroku) | [Github](https://github.com/BlaineAndersonDev/crae-002-nav-foot) | [Github](https://github.com/BlaineAndersonDev/crae-003-axios.git) | Github | Github | Github | Github |
-  | --- | --- | [Live Example](https://crae-heroku.herokuapp.com/) | [Live Example](https://crae-nav-foot.herokuapp.com/) | Live Example | Live Example | Live Example | Live Example | Live Example |
+  | --- | --- | [Live Example](https://crae-001-heroku.herokuapp.com/) | [Live Example](https://crae-002-nav-foot.herokuapp.com/) | [Live Example](https://crae-003-axios.herokuapp.com/) | Live Example | Live Example | Live Example | Live Example |
   | [Homebrew](https://brew.sh/) | "The missing package manager for macOS (or Linux)" | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
   | [Atom](https://atom.io/) | Coding Text Editor | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
   | [Node](https://nodejs.org/en/) | JS Command Line Interface | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -572,7 +572,7 @@
   * Another option is looking in your terminal where you pushed your App to Heroku.
     * There should be the actual link to your live site in the terminal, just copy and paste it out. It would look something like this:
     * ![007](client/public/images/007_heroku_link.png?raw=true)
-  * You can find the live version of this app at [https://crae-heroku.herokuapp.com/](https://crae-heroku.herokuapp.com/).
+  * You can find the live version of this app at [https://crae-001-heroku.herokuapp.com/](https://crae-001-heroku.herokuapp.com/).
 
 ## **Step 6:** Celebration! :clap:
   * **===> You've Competed The App! <====**
