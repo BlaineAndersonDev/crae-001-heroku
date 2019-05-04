@@ -2,12 +2,13 @@
   * **Create-React-App + Express + Deployment to Heroku.**
   * [Live Site Example](https://crae-001-heroku.herokuapp.com/)
   * This guide was built in April 2019 by [Blaine Anderson](https://github.com/BlaineAndersonDev).
+  * *This Guide is the __1st__ in a series.*
   * This App serves as a starting point with instruction for aspiring developers using the CRAE stack (create-react-app-express) & is prepared upon completion to be deployed to Heroku.
   <!-- * Blaine Anderson's [Portfolio](http://www.blaineandersondev.com/) -->
 
 > This instructional tutorial assumes you have a minimal understanding of Javascript, React JSX, Express Routing & Heroku. If not, then let's try anyway! Coding is all about learning!
 
-  | Technology | Description | CRAE + Heroku | CRAE + Nav + Foot | CRAE + Axios | CRAE + Db | CRAE + Dotenv | CRAE + Cloudinary | CRAE + Auth0 |
+  | Technology | Description | CRAE + Heroku | CRAE + Nav + Foot | CRAE + Axios | CRAE + PostgreSQL | CRAE + Dotenv | CRAE + Cloudinary | CRAE + Auth0 |
   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
   | --- | --- | [Github](https://github.com/BlaineAndersonDev/crae-001-heroku) | [Github](https://github.com/BlaineAndersonDev/crae-002-nav-foot) | [Github](https://github.com/BlaineAndersonDev/crae-003-axios.git) | Github | Github | Github | Github |
   | --- | --- | [Live Example](https://crae-001-heroku.herokuapp.com/) | [Live Example](https://crae-002-nav-foot.herokuapp.com/) | [Live Example](https://crae-003-axios.herokuapp.com/) | Live Example | Live Example | Live Example | Live Example |
@@ -592,5 +593,5 @@
 
 ## :floppy_disk: ---===> Continue Learning? <===--- :floppy_disk:
   * If you're interested in continuing to make this App even better, why not check out the next Guide in the series?
-    * *The next guide focuses on creating a simplistic, useful & persistent Navigation Bar, as well as a Footer that actually stays where it should!*
-    * [CRAE+Nav+Foot]( )
+    * *The next guide focuses on using [react-router-dom](https://github.com/ReactTraining/react-router#readme) to create a simplistic, useful & persistent Navigation Bar, as well as a creating a Footer that actually stays where it should!*
+    * [CRAE+Nav+Foot](https://github.com/BlaineAndersonDev/crae-002-nav-foot)
